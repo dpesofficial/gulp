@@ -1,0 +1,11 @@
+$primary-color : #ddd;
+$secondary-color : #ddd;
+
+
+*{
+    background: $primary-color;
+}
+
+body{
+    background: $secondary-color;
+}

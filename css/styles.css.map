@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","sources":["styles.scss"],"sourcesContent":["$primary-color : #ddd;\r\n$secondary-color : #ddd;\r\n\r\n\r\n*{\r\n    background: $primary-color;\r\n}\r\n\r\nbody{\r\n    background: $secondary-color;\r\n}\r\n"],"names":[],"mappings":"AAIA,AAAA,CAAC,CAAA;EACG,UAAU,EALG,IAAI,GAMpB;;AAED,AAAA,IAAI,CAAA;EACA,UAAU,EARK,IAAI,GAStB"}
